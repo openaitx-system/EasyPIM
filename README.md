@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=kayasax&project=EasyPIM&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <p align="center">
   <img src="docs/assets/logo_transparent.svg" alt="EasyPIM logo" width="180">
   <h1 align="center">🛡️ EasyPIM</h1>
